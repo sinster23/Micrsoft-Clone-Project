@@ -4,4 +4,4 @@
 
 **CSS code:** [style.css](https://github.com/sinster23/Micrsoft-Clone-Project/blob/main/style.css)
 
-![Microsoft Clone](https://github.com/sinster23/Screenshots/blob/main/SS1.png)
+![Microsoft Clone](https://github.com/sinster23/Screenshots/blob/main/MicrosoftClone.png)
